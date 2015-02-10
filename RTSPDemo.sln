@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RTSPDemo", "RTSPDemo\RTSPDemo.vcproj", "{AB424C57-A056-42DE-B902-9FF7FFFA5032}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RTSPDemo", "src\RTSPDemo.vcproj", "{AB424C57-A056-42DE-B902-9FF7FFFA5032}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
